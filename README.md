@@ -1,2 +1,2 @@
 # Phonepay
-PhonePe Transaction Insights
+PhonePay Transaction Insights
