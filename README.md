@@ -1,2 +1,2 @@
 # Phonepay
-AIML Mini project - Phonepay
+PhonePe Transaction Insights
